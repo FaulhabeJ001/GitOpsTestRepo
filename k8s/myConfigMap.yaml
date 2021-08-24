@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: test
 data:
-  index.html: hello brave new world
+  index.html: hello brave new world 2
